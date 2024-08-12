@@ -6,6 +6,8 @@ This is a Todo application built with React, TypeScript, and SCSS. The app inter
 ## Demo
 You can view the live demo of the project here: [DEMO LINK](https://vitalii-lytvynenko.github.io/todo-app-with-api/)
 
+![image](https://github.com/user-attachments/assets/644f6d7c-a0ab-4864-9038-9e3c70e7deb3)
+
 ## Project Structure
 The project is organized using React components, TypeScript for type safety, and SCSS for styling. The structure is modular, allowing for easy maintenance and scalability.
 
